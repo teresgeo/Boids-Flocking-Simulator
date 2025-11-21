@@ -24,7 +24,9 @@ This GIF shows the actual visual output produced when running the simulation in 
 
 ## Running the Simulation
 
+From the project root, navigate into the `src` directory:
 ```
+cd src
 octave boids.m
 ```
 
